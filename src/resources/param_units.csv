@@ -1,0 +1,25 @@
+﻿param,unit
+"Patient Name",
+"Patient Age",
+"Patient Gender"
+HbA1c,%
+Glycated Hemoglobin (HbA1c),%
+Hemoglobin Hb,g/dL
+Vitamin B12 Cyanocobalamin,pg/ml
+Vitamin B12,pg/ml
+Calcium,mg/dl
+"Calcium Total, Serum",mg/dl
+"Cholesterol-Total, Serum",mg/dl
+"Creatinine, Serum",mg/dl
+TSH Ultra - Sensitive,µIU/mL
+TSH,µIU/mL
+Vitamin D Total-25 Hydroxy,ng/ml
+"Haemoglobin (HB)",g/dL
+HB,g/dL
+"VITAMIN B12",pg/ml
+"Serum Calcium",mg/dl
+"Total Cholesterol",mg/dl
+"Serum Creatinine",mg/dl
+Creatinine,mg/dl
+"Thyroid Stimulating Hormone",µIU/mL
+"Vitamin D",ng/ml

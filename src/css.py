@@ -8,5 +8,16 @@ v1 = """
  position: relative;
  padding-top: 6px;
 }
-
+# .css-ffhzg2 {
+#  # primary-color: #E694FF;
+#  background-color: #9BE5EC;
+#  # secondaryBackgroundColor: #0083B8;
+#  color: black;
+#  font-family: sans-serif;
+# }
+# 
+# * {
+#  color: black;
+#  background-color: #9BE5EC;
+# }
 """
